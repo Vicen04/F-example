@@ -1,0 +1,680 @@
+Bakers,Pet,123.25
+Cravendale,Dairy,2.80
+Heinz,Groceries,8.44
+Andrew,Groceries,43.61
+Andrew,Groceries,69.44
+Gressingham,Fresh Meat,35.02
+Tropicana,Groceries,68.63
+Gu,Groceries,88.55
+Danish,Fresh Meat,26.40
+Sheba,Pet,60.09
+Colgate,Healthcare,69.82
+Roberts,Bakery,43.37
+Walkers,Groceries,2.29
+Butchers,Pet,10.09
+Heinz,Groceries,55.69
+Dave's Dairy,Dairy,9.43
+Felix,Pet,37.07
+Danish,Fresh Meat,29.71
+Lurpak,Dairy,4.37
+Warburtons,Bakery,5.21
+Activia,Dairy,18.93
+High Farm,Fruit and Vegetables,13.66
+New Farm,Fruit and Vegetables,8.84
+Pedigree,Pet,43.91
+New Farm,Fruit and Vegetables,1.35
+Pedigree,Pet,15.50
+Delifrance,Bakery,4.06
+Kelloggs,Groceries,0.18
+Delifrance,Bakery,35.08
+Rowse,Groceries,69.64
+Felix,Pet,59.95
+Delifrance,Bakery,3.50
+Weston Veg,Fruit and Vegetables,31.82
+Loreal,Beauty,14.77
+Pedigree,Pet,4.32
+Finish,Cleaning,27.31
+Colmans,Groceries,138.78
+Go Cat,Pet,11.14
+Muddy Boots,Fresh Meat,14.65
+Rowse,Groceries,45.05
+Vanish,Cleaning,79.48
+New Farm,Fruit and Vegetables,4.58
+Sheba,Pet,10.44
+Lurpak,Dairy,44.96
+Denhay,Fresh Meat,113.20
+Blue Diamond,Dairy,51.95
+Go Cat,Pet,59.35
+Vanish,Cleaning,26.64
+Gilette,Beauty,5.63
+Muddy Boots,Fresh Meat,7.47
+Kelloggs,Groceries,41.56
+Flora,Dairy,55.89
+Muller,Dairy,9.96
+Remington,Beauty,14.40
+Simple,Beauty,44.31
+Roberts,Bakery,51.19
+Bold,Cleaning,7.31
+Roberts,Bakery,95.27
+Warburtons,Bakery,0.59
+Kelloggs,Groceries,53.99
+Knorr,Groceries,35.31
+Blue Diamond,Dairy,59.02
+High Farm,Fruit and Vegetables,88.77
+Vanish,Cleaning,4.68
+Activia,Dairy,65.45
+Rowse,Groceries,40.13
+Vaseline,Beauty,20.46
+Weston Veg,Fruit and Vegetables,59.80
+Roberts,Bakery,129.88
+John West,Groceries,16.46
+Heinz,Groceries,79.64
+Loreal,Beauty,5.60
+Richmond,Fresh Meat,62.93
+Sheba,Pet,35.58
+Andrew,Groceries,26.50
+Roberts,Bakery,21.38
+Muddy Boots,Fresh Meat,58.36
+Dave's Dairy,Dairy,15.46
+Hartleys,Groceries,63.33
+High Farm,Fruit and Vegetables,50.72
+Muller,Dairy,54.14
+Hovis,Bakery,34.63
+Heinz,Groceries,30.91
+Kelloggs,Groceries,97.21
+Butchers,Pet,14.59
+Danish,Fresh Meat,68.17
+Blue Diamond,Dairy,64.50
+Dave's Dairy,Dairy,54.21
+Tropicana,Groceries,22.39
+Colmans,Groceries,16.04
+Roberts,Bakery,76.29
+Knorr,Groceries,2.79
+Bakers,Pet,14.33
+Muller,Dairy,0.86
+Butchers,Pet,100.64
+Pedigree,Pet,4.95
+Butchers,Pet,103.54
+Garnier,Beauty,47.62
+Knorr,Groceries,1.00
+Richmond,Fresh Meat,2.00
+Gressingham,Fresh Meat,92.82
+Colmans,Groceries,26.03
+Denhay,Fresh Meat,80.67
+Lurpak,Dairy,13.43
+Gilette,Beauty,2.93
+Andrew,Groceries,104.85
+Muller,Dairy,26.80
+High Farm,Fruit and Vegetables,55.78
+Knorr,Groceries,30.35
+Kleenex,Healthcare,0.16
+Gilette,Beauty,9.92
+New Farm,Fruit and Vegetables,43.45
+Colgate,Healthcare,75.11
+Dave's Dairy,Dairy,31.37
+Gressingham,Fresh Meat,10.56
+Walkers,Groceries,4.85
+Blue Diamond,Dairy,29.47
+Colmans,Groceries,23.59
+John West,Groceries,33.05
+Vaseline,Beauty,1.45
+Colmans,Groceries,42.13
+Go Cat,Pet,24.66
+Muller,Dairy,35.46
+Loreal,Beauty,8.50
+Gilette,Beauty,2.35
+Loreal,Beauty,13.59
+Warburtons,Bakery,3.71
+Loreal,Beauty,18.19
+Richmond,Fresh Meat,71.96
+Colmans,Groceries,111.60
+Simple,Beauty,16.22
+Hovis,Bakery,19.21
+Hartleys,Groceries,14.21
+Gu,Groceries,29.82
+Warburtons,Bakery,38.51
+Vaseline,Beauty,8.05
+Loreal,Beauty,17.75
+Gilette,Beauty,102.64
+Vanish,Cleaning,114.22
+New Farm,Fruit and Vegetables,11.99
+Vanish,Cleaning,47.27
+Finish,Cleaning,0.81
+Muller,Dairy,73.18
+Simple,Beauty,89.64
+Vaseline,Beauty,82.71
+Hartleys,Groceries,4.53
+Surf,Cleaning,50.69
+Finish,Cleaning,84.47
+Kleenex,Healthcare,12.04
+Hartleys,Groceries,42.18
+John West,Groceries,15.74
+Knorr,Groceries,137.32
+Lurpak,Dairy,29.10
+Florette,Fruit and Vegetables,24.01
+Finish,Cleaning,11.69
+Kleenex,Healthcare,4.89
+Kelloggs,Groceries,108.67
+Kleenex,Healthcare,2.53
+Muller,Dairy,63.57
+Simple,Beauty,10.17
+Rowse,Groceries,0.11
+Knorr,Groceries,28.64
+Cravendale,Dairy,92.03
+Lurpak,Dairy,59.73
+Heinz,Groceries,89.81
+Go Cat,Pet,1.57
+Danish,Fresh Meat,32.78
+Weston Veg,Fruit and Vegetables,72.38
+Bold,Cleaning,6.89
+Flora,Dairy,77.02
+Surf,Cleaning,51.95
+Flora,Dairy,38.93
+Vanish,Cleaning,20.14
+Flora,Dairy,29.41
+Warburtons,Bakery,51.92
+Fairy,Cleaning,56.35
+New Farm,Fruit and Vegetables,128.09
+Surf,Cleaning,3.15
+Blue Diamond,Dairy,18.24
+Kelloggs,Groceries,57.93
+Sheba,Pet,8.92
+Sheba,Pet,10.49
+Go Cat,Pet,2.72
+Flora,Dairy,34.08
+Weston Veg,Fruit and Vegetables,15.22
+Vaseline,Beauty,3.51
+Delifrance,Bakery,1.67
+Florette,Fruit and Vegetables,91.92
+Vaseline,Beauty,45.99
+Finish,Cleaning,65.24
+Pedigree,Pet,28.51
+Garnier,Beauty,37.35
+Heinz,Groceries,10.52
+Bold,Cleaning,74.79
+Butchers,Pet,4.92
+Hovis,Bakery,19.90
+Richmond,Fresh Meat,8.81
+High Farm,Fruit and Vegetables,10.60
+Butchers,Pet,15.43
+Surf,Cleaning,25.12
+Cathedral City,Groceries,2.33
+Flora,Dairy,76.90
+Roberts,Bakery,4.74
+Dave's Dairy,Dairy,121.40
+Danish,Fresh Meat,29.43
+Danish,Fresh Meat,97.66
+Cathedral City,Groceries,92.54
+Steve's Leaves,Fruit and Vegetables,83.30
+Rowse,Groceries,18.89
+Activia,Dairy,4.78
+Simple,Beauty,30.80
+Heinz,Groceries,23.34
+Muller,Dairy,38.25
+Dave's Dairy,Dairy,119.90
+Steve's Leaves,Fruit and Vegetables,29.09
+Hovis,Bakery,35.12
+New Farm,Fruit and Vegetables,75.54
+Fairy,Cleaning,9.58
+Weston Veg,Fruit and Vegetables,45.97
+Simple,Beauty,12.82
+Cravendale,Dairy,14.61
+Richmond,Fresh Meat,34.26
+Gu,Groceries,18.51
+Vaseline,Beauty,7.55
+Weston Veg,Fruit and Vegetables,47.97
+Vaseline,Beauty,55.71
+Tropicana,Groceries,0.40
+Lurpak,Dairy,13.55
+Cravendale,Dairy,1.37
+Loreal,Beauty,94.37
+Muller,Dairy,64.36
+Weston Veg,Fruit and Vegetables,1.64
+Rowse,Groceries,80.94
+Remington,Beauty,65.29
+New Farm,Fruit and Vegetables,43.16
+Remington,Beauty,1.04
+Flora,Dairy,27.21
+Loreal,Beauty,2.49
+Tropicana,Groceries,16.96
+Denhay,Fresh Meat,29.85
+Kleenex,Healthcare,4.81
+Colgate,Healthcare,28.44
+Gu,Groceries,0.16
+Loreal,Beauty,14.78
+Rowse,Groceries,71.14
+Kleenex,Healthcare,49.37
+Finish,Cleaning,29.11
+Muddy Boots,Fresh Meat,38.82
+Bold,Cleaning,29.79
+Bold,Cleaning,5.36
+Weston Veg,Fruit and Vegetables,48.16
+Muddy Boots,Fresh Meat,84.09
+Flora,Dairy,4.17
+Heinz,Groceries,12.38
+Hartleys,Groceries,0.20
+Warburtons,Bakery,27.43
+Muller,Dairy,54.05
+Simple,Beauty,57.27
+Hovis,Bakery,15.39
+Denhay,Fresh Meat,90.25
+Colgate,Healthcare,104.56
+Knorr,Groceries,97.28
+Bakers,Pet,92.98
+Gilette,Beauty,2.32
+Butchers,Pet,33.98
+Bold,Cleaning,33.77
+Roberts,Bakery,33.27
+Hovis,Bakery,70.60
+Florette,Fruit and Vegetables,7.79
+John West,Groceries,39.10
+Gu,Groceries,30.48
+Knorr,Groceries,118.33
+High Farm,Fruit and Vegetables,6.95
+Flora,Dairy,58.56
+High Farm,Fruit and Vegetables,58.94
+Andrew,Groceries,44.66
+Fairy,Cleaning,29.12
+Loreal,Beauty,41.01
+Walkers,Groceries,26.10
+Walkers,Groceries,73.16
+Gu,Groceries,33.59
+Surf,Cleaning,58.50
+Florette,Fruit and Vegetables,57.56
+Vanish,Cleaning,17.15
+Bakers,Pet,122.34
+Activia,Dairy,5.13
+Cathedral City,Groceries,21.13
+Flora,Dairy,14.29
+Tropicana,Groceries,15.15
+Kelloggs,Groceries,15.39
+Activia,Dairy,26.31
+Weston Veg,Fruit and Vegetables,23.30
+Garnier,Beauty,26.29
+Bakers,Pet,92.57
+Roberts,Bakery,83.90
+Kleenex,Healthcare,58.81
+Bold,Cleaning,6.39
+Kelloggs,Groceries,4.09
+Felix,Pet,2.01
+Vaseline,Beauty,25.35
+Cathedral City,Groceries,31.75
+Pedigree,Pet,102.67
+Delifrance,Bakery,0.86
+Lurpak,Dairy,3.78
+Butchers,Pet,13.82
+Walkers,Groceries,2.01
+New Farm,Fruit and Vegetables,64.07
+Sheba,Pet,72.55
+Activia,Dairy,16.82
+Knorr,Groceries,61.96
+Heinz,Groceries,0.44
+Butchers,Pet,40.78
+Colmans,Groceries,13.96
+Hartleys,Groceries,4.01
+Bakers,Pet,70.19
+Gressingham,Fresh Meat,35.50
+Colgate,Healthcare,1.45
+Vaseline,Beauty,71.34
+Blue Diamond,Dairy,23.30
+Blue Diamond,Dairy,0.35
+Lurpak,Dairy,108.37
+Hovis,Bakery,78.13
+Dave's Dairy,Dairy,81.74
+Gilette,Beauty,79.60
+Denhay,Fresh Meat,26.56
+Steve's Leaves,Fruit and Vegetables,11.04
+Walkers,Groceries,32.99
+New Farm,Fruit and Vegetables,9.32
+Pedigree,Pet,2.84
+Florette,Fruit and Vegetables,9.25
+John West,Groceries,37.57
+Cathedral City,Groceries,85.03
+Simple,Beauty,5.19
+Sheba,Pet,19.87
+Hovis,Bakery,27.95
+Weston Veg,Fruit and Vegetables,5.75
+Surf,Cleaning,2.03
+Richmond,Fresh Meat,30.02
+Go Cat,Pet,35.99
+Tropicana,Groceries,41.94
+Flora,Dairy,10.15
+Garnier,Beauty,16.72
+Colgate,Healthcare,101.95
+Cravendale,Dairy,33.61
+Butchers,Pet,10.03
+Garnier,Beauty,21.98
+Danish,Fresh Meat,0.40
+Finish,Cleaning,4.23
+Andrew,Groceries,96.75
+Walkers,Groceries,23.15
+Richmond,Fresh Meat,1.04
+Andrew,Groceries,27.60
+Gu,Groceries,26.46
+Florette,Fruit and Vegetables,5.13
+Tropicana,Groceries,91.75
+Steve's Leaves,Fruit and Vegetables,3.14
+Cathedral City,Groceries,20.18
+Felix,Pet,0.76
+Cravendale,Dairy,6.51
+Richmond,Fresh Meat,63.33
+Remington,Beauty,5.66
+Simple,Beauty,45.44
+High Farm,Fruit and Vegetables,47.07
+Danish,Fresh Meat,82.89
+Delifrance,Bakery,9.86
+Butchers,Pet,7.52
+Remington,Beauty,75.11
+Steve's Leaves,Fruit and Vegetables,3.50
+Kleenex,Healthcare,4.06
+Walkers,Groceries,81.09
+Loreal,Beauty,50.50
+Tropicana,Groceries,5.84
+Finish,Cleaning,21.79
+Colmans,Groceries,23.09
+Rowse,Groceries,5.00
+Warburtons,Bakery,104.89
+Go Cat,Pet,48.60
+Muddy Boots,Fresh Meat,65.67
+Tropicana,Groceries,1.43
+Colgate,Healthcare,77.69
+Surf,Cleaning,23.84
+Garnier,Beauty,3.73
+Flora,Dairy,9.33
+Delifrance,Bakery,21.35
+Gilette,Beauty,3.29
+Vaseline,Beauty,132.50
+Hovis,Bakery,7.95
+Vaseline,Beauty,42.20
+Remington,Beauty,53.86
+Felix,Pet,0.25
+Kelloggs,Groceries,12.42
+Gu,Groceries,2.21
+Denhay,Fresh Meat,49.46
+Colgate,Healthcare,115.57
+Bakers,Pet,58.77
+Muddy Boots,Fresh Meat,75.80
+Warburtons,Bakery,12.68
+Tropicana,Groceries,68.57
+Vanish,Cleaning,76.98
+Blue Diamond,Dairy,25.95
+Cathedral City,Groceries,67.31
+Vanish,Cleaning,129.19
+Roberts,Bakery,24.46
+Surf,Cleaning,2.32
+Weston Veg,Fruit and Vegetables,1.43
+Flora,Dairy,15.32
+Gu,Groceries,24.03
+Kleenex,Healthcare,85.20
+Go Cat,Pet,1.98
+Activia,Dairy,25.72
+Gressingham,Fresh Meat,30.36
+Colmans,Groceries,7.74
+Denhay,Fresh Meat,36.57
+John West,Groceries,42.86
+Hovis,Bakery,7.19
+Weston Veg,Fruit and Vegetables,102.06
+Tropicana,Groceries,9.10
+Andrew,Groceries,12.83
+Butchers,Pet,76.88
+Delifrance,Bakery,91.86
+Surf,Cleaning,44.37
+Tropicana,Groceries,58.97
+Andrew,Groceries,14.09
+Gilette,Beauty,52.82
+Dave's Dairy,Dairy,91.88
+Vaseline,Beauty,33.01
+Go Cat,Pet,20.64
+Kleenex,Healthcare,73.57
+Butchers,Pet,91.82
+Dave's Dairy,Dairy,33.63
+Surf,Cleaning,79.90
+Gilette,Beauty,0.22
+Bakers,Pet,3.06
+Roberts,Bakery,89.81
+Delifrance,Bakery,15.45
+Kleenex,Healthcare,46.99
+Florette,Fruit and Vegetables,49.27
+Felix,Pet,8.81
+John West,Groceries,13.09
+Sheba,Pet,34.02
+Danish,Fresh Meat,76.58
+Weston Veg,Fruit and Vegetables,30.70
+Remington,Beauty,89.93
+Bold,Cleaning,3.44
+Go Cat,Pet,40.69
+Hartleys,Groceries,31.96
+Gilette,Beauty,52.64
+Vanish,Cleaning,5.87
+Walkers,Groceries,70.49
+Flora,Dairy,54.42
+Andrew,Groceries,114.47
+Weston Veg,Fruit and Vegetables,10.50
+Denhay,Fresh Meat,71.13
+Loreal,Beauty,1.16
+Surf,Cleaning,10.03
+Colmans,Groceries,4.69
+Pedigree,Pet,92.42
+Loreal,Beauty,121.33
+Richmond,Fresh Meat,40.94
+Gressingham,Fresh Meat,26.39
+Bakers,Pet,43.36
+Gilette,Beauty,3.39
+Colmans,Groceries,15.43
+Knorr,Groceries,82.16
+Go Cat,Pet,25.46
+Felix,Pet,138.06
+Muddy Boots,Fresh Meat,82.22
+Heinz,Groceries,42.86
+Warburtons,Bakery,0.23
+Muddy Boots,Fresh Meat,67.27
+Vanish,Cleaning,55.41
+Gilette,Beauty,11.03
+Activia,Dairy,2.32
+High Farm,Fruit and Vegetables,0.01
+Andrew,Groceries,10.35
+Gilette,Beauty,16.96
+Cravendale,Dairy,1.69
+Blue Diamond,Dairy,9.14
+Gressingham,Fresh Meat,50.00
+Activia,Dairy,111.18
+Colmans,Groceries,49.25
+Loreal,Beauty,100.38
+Loreal,Beauty,22.07
+Tropicana,Groceries,5.68
+Muddy Boots,Fresh Meat,73.51
+Heinz,Groceries,3.05
+New Farm,Fruit and Vegetables,21.85
+Pedigree,Pet,19.96
+Vanish,Cleaning,82.19
+Delifrance,Bakery,96.60
+Muller,Dairy,120.98
+Cathedral City,Groceries,8.32
+Cravendale,Dairy,14.37
+Roberts,Bakery,62.00
+Cathedral City,Groceries,73.26
+Cathedral City,Groceries,68.46
+Finish,Cleaning,1.34
+Andrew,Groceries,30.85
+Remington,Beauty,4.01
+Vanish,Cleaning,113.14
+Warburtons,Bakery,36.96
+Gu,Groceries,6.05
+John West,Groceries,65.13
+Warburtons,Bakery,28.71
+Knorr,Groceries,12.65
+Heinz,Groceries,80.75
+Finish,Cleaning,0.44
+Tropicana,Groceries,64.01
+John West,Groceries,28.28
+Knorr,Groceries,64.17
+Steve's Leaves,Fruit and Vegetables,6.53
+Go Cat,Pet,2.44
+Cravendale,Dairy,12.59
+Go Cat,Pet,66.38
+Gressingham,Fresh Meat,32.57
+Dave's Dairy,Dairy,4.77
+Vaseline,Beauty,35.84
+Colmans,Groceries,51.31
+Denhay,Fresh Meat,9.68
+Kelloggs,Groceries,12.95
+Fairy,Cleaning,6.79
+Danish,Fresh Meat,23.54
+Kelloggs,Groceries,7.72
+Kelloggs,Groceries,4.43
+Cravendale,Dairy,100.02
+Tropicana,Groceries,0.54
+Simple,Beauty,22.52
+New Farm,Fruit and Vegetables,18.45
+Bakers,Pet,7.12
+Vaseline,Beauty,121.30
+Hartleys,Groceries,57.86
+Heinz,Groceries,9.45
+Activia,Dairy,20.56
+New Farm,Fruit and Vegetables,53.64
+Tropicana,Groceries,115.98
+Blue Diamond,Dairy,28.00
+New Farm,Fruit and Vegetables,9.45
+Surf,Cleaning,142.35
+Muddy Boots,Fresh Meat,0.39
+Muller,Dairy,4.73
+Walkers,Groceries,15.01
+Simple,Beauty,61.34
+Remington,Beauty,32.11
+Pedigree,Pet,41.54
+Kleenex,Healthcare,43.32
+Fairy,Cleaning,19.01
+Vanish,Cleaning,7.59
+Felix,Pet,88.09
+Sheba,Pet,10.34
+Bakers,Pet,3.84
+Kelloggs,Groceries,0.58
+Fairy,Cleaning,14.91
+Gressingham,Fresh Meat,52.50
+Cathedral City,Groceries,2.81
+Muddy Boots,Fresh Meat,48.91
+Roberts,Bakery,3.22
+Florette,Fruit and Vegetables,54.52
+Florette,Fruit and Vegetables,1.41
+Florette,Fruit and Vegetables,22.54
+Steve's Leaves,Fruit and Vegetables,14.16
+High Farm,Fruit and Vegetables,39.19
+Gressingham,Fresh Meat,25.60
+Activia,Dairy,70.25
+Heinz,Groceries,19.51
+Gressingham,Fresh Meat,44.33
+Rowse,Groceries,133.23
+Fairy,Cleaning,4.52
+Colmans,Groceries,20.94
+Fairy,Cleaning,72.54
+Heinz,Groceries,2.65
+Pedigree,Pet,48.76
+Heinz,Groceries,95.69
+Finish,Cleaning,128.18
+Knorr,Groceries,8.45
+Lurpak,Dairy,6.13
+Fairy,Cleaning,57.15
+Weston Veg,Fruit and Vegetables,50.19
+Steve's Leaves,Fruit and Vegetables,12.84
+Loreal,Beauty,2.82
+Sheba,Pet,5.40
+Andrew,Groceries,10.40
+Kleenex,Healthcare,33.65
+Cravendale,Dairy,6.22
+Pedigree,Pet,0.85
+Gilette,Beauty,5.84
+Muddy Boots,Fresh Meat,53.07
+John West,Groceries,0.13
+Gressingham,Fresh Meat,89.58
+Hartleys,Groceries,9.10
+Delifrance,Bakery,70.77
+Steve's Leaves,Fruit and Vegetables,25.60
+Muddy Boots,Fresh Meat,91.07
+Heinz,Groceries,13.65
+Simple,Beauty,54.44
+Heinz,Groceries,76.72
+Colmans,Groceries,85.80
+Kleenex,Healthcare,29.17
+Rowse,Groceries,27.19
+Vaseline,Beauty,4.52
+Colgate,Healthcare,8.62
+John West,Groceries,29.75
+Cathedral City,Groceries,11.57
+Bakers,Pet,2.28
+Kleenex,Healthcare,33.39
+High Farm,Fruit and Vegetables,12.21
+Rowse,Groceries,0.57
+Delifrance,Bakery,32.07
+Gu,Groceries,31.91
+Walkers,Groceries,50.94
+Hartleys,Groceries,72.77
+Cravendale,Dairy,64.48
+Roberts,Bakery,18.63
+Walkers,Groceries,59.61
+Gu,Groceries,42.83
+Finish,Cleaning,0.31
+Colmans,Groceries,36.64
+New Farm,Fruit and Vegetables,14.82
+Heinz,Groceries,7.58
+Finish,Cleaning,0.39
+Gilette,Beauty,28.72
+Gressingham,Fresh Meat,1.87
+Sheba,Pet,7.31
+Lurpak,Dairy,14.10
+Vaseline,Beauty,7.59
+Cravendale,Dairy,82.76
+Gilette,Beauty,78.42
+Richmond,Fresh Meat,88.53
+Kleenex,Healthcare,24.64
+Roberts,Bakery,66.24
+Tropicana,Groceries,50.64
+Colgate,Healthcare,0.15
+Hovis,Bakery,18.54
+Bold,Cleaning,19.42
+Andrew,Groceries,13.07
+Gressingham,Fresh Meat,50.57
+Simple,Beauty,28.95
+Bold,Cleaning,20.22
+Gu,Groceries,1.40
+Bold,Cleaning,80.59
+Finish,Cleaning,18.64
+Flora,Dairy,38.11
+Flora,Dairy,43.50
+Gressingham,Fresh Meat,17.62
+Surf,Cleaning,16.02
+New Farm,Fruit and Vegetables,21.17
+Surf,Cleaning,46.86
+Muller,Dairy,2.74
+Warburtons,Bakery,14.40
+Hovis,Bakery,9.11
+Sheba,Pet,76.82
+Finish,Cleaning,7.77
+Vaseline,Beauty,10.83
+Activia,Dairy,66.84
+Vanish,Cleaning,11.23
+Roberts,Bakery,13.24
+Garnier,Beauty,3.22
+Butchers,Pet,41.11
+Denhay,Fresh Meat,66.45
+Denhay,Fresh Meat,19.31
+Knorr,Groceries,0.74
+Colmans,Groceries,21.96
+John West,Groceries,1.39
+Colgate,Healthcare,23.97
+Weston Veg,Fruit and Vegetables,70.53
+Remington,Beauty,30.31
+Loreal,Beauty,97.78
+Cathedral City,Groceries,22.93
+Bold,Cleaning,5.98
+New Farm,Fruit and Vegetables,13.93
+Vanish,Cleaning,4.71
+Danish,Fresh Meat,49.02
+Surf,Cleaning,29.00
+Roberts,Bakery,93.80
+Florette,Fruit and Vegetables,80.26
+Colgate,Healthcare,9.23
+Muller,Dairy,57.83
+Surf,Cleaning,17.42
+Remington,Beauty,25.50
+Remington,Beauty,19.25
+Richmond,Fresh Meat,11.04
