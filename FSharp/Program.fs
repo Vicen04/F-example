@@ -38,10 +38,12 @@ module Conditions =
     let mutable allDates = true
     let mutable allStores = true
 
+//
 module selections =
     let mutable finished = String.Empty
     let mutable validOption = true
 
+//read the files and input them into the program
 let ReadFiles (data: string) =
    
    let orderSplit = data.Split(',')
@@ -59,6 +61,7 @@ let ReadFiles (data: string) =
         
    cost
 
+//get the files from the harcoded path
 let GetFiles (filenames : string)=        
     let fileNameExt = Path.GetFileName(filenames)
     let filename = Path.GetFileNameWithoutExtension(filenames)
@@ -89,7 +92,8 @@ let GetFiles (filenames : string)=
     else
       let cost = 0.0
       cost    
-
+ 
+ //calculate all the data necessary based on the selections using threads, it works in a similar way the windows form does
 let Calculate() =
     printfn "Please, wait until the calculation finishes"
     printfn ""
@@ -126,6 +130,7 @@ let Calculate() =
     printfn "The total cost for this selection is %A" totalCost
     printfn "Time to calculate: %A" timer.Elapsed.TotalSeconds
 
+ //Set the command prompt to ask the user for input to get the correct shop
 let GetShop() = 
     Conditions.allStores <- false
     let mutable notvalidShop = true  
@@ -157,6 +162,8 @@ let GetShop() =
            notvalidShop <- true
        printfn ""
 
+
+  //Set the command prompt to ask the user for input to get the correct date
 let GetDate() = 
     Conditions.allDates <- false
     printfn "Please, type a number between 1 to 52 for the week (Be aware that if you type a different number, it's not going to find anything)"
@@ -166,18 +173,21 @@ let GetDate() =
     ConsoleReadOptions.year <- Console.ReadLine()
     printfn ""
 
+ //Set the command prompt to ask the user for input to get the correct provider
 let GetProvider() = 
     Conditions.allProviders <- false
     printfn "Please, enter the producer (Be aware that if you type it wrong, it's not going to find anything)"
     ConsoleReadOptions.provider <- Console.ReadLine()
     printfn ""
 
+ //Set the command prompt to ask the user for input to get the correct product
 let GetProduct() = 
     Conditions.allProducts <- false
     printfn "Please, enter the product type (Be aware that if you type it wrong, it's not going to find anything)"
     ConsoleReadOptions.productType <- Console.ReadLine()
     printfn ""
 
+ //Set the command prompt, ask the user how it wants to calculate the data, proceed if the option choosen is valid else, ask again until a valid option is choosen, then proceed to calculate
 let rec StartProgram() =
       Conditions.allProviders <- true
       Conditions.allProducts <- true
@@ -251,6 +261,7 @@ let rec StartProgram() =
       else 
         0
 
+ //start of the program
 [<EntryPoint>]
 let main argv = 
     let storeCodesData = File.ReadAllLines(StoreFilesAndData.storeCodesFile)
